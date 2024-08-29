@@ -20,6 +20,13 @@
 
 * [diffusers_xl_depth_mid.safetensors](https://huggingface.co/lllyasviel/sd_control_collection/tree/main)
 
+### Depths
+
+<p align="center">
+    <img width="50%" src="./images/5m3o80vw6g_555928.jpg"><br/>
+    <i>5m3o80vw6g_555928.jpg</i>
+</p>
+
 ## Upscalers
 
 * [4x-UltraSharp.pth](https://openmodeldb.info/models/4x-UltraSharp)
